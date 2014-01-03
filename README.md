@@ -1,6 +1,8 @@
-Example REST service using Koa
+# Example REST service using Koa
 
 <strong>Only works with Node.js version higher than 0.11.3</strong>
+
+To install: <code>npm install</code>
 
 To start the app a special flag is required: <code>node --harmony-generators ./app.js</code>
 
@@ -8,4 +10,4 @@ The book collection used in the example is available in the <code>sw.json</code>
 
 <code>mongoimport --db starwars --collection books --file sw.json</code>
 
-For futher information check: 
+For futher information check: http://tamas.io/replacing-express-with-koa/
