@@ -1,6 +1,6 @@
 # Example REST service using Koa
 
-<strong>Only works with Node.js version higher than 0.11.3</strong>
+<strong>Only works with Node.js version higher than 0.11.3</strong> (see blog post linked below to see how to setup multiple node versions)
 
 To install: <code>npm install</code>
 
