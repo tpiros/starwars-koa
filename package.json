@@ -1,0 +1,26 @@
+{
+  "name": "starwars",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "co-body": "~0.0.1",
+    "co-monk": "~0.0.1",
+    "koa": "~0.1.2",
+    "koa-route": "~1.0.2",
+    "koa-router": "~2.2.0",
+    "kongo": "~0.0.3",
+    "mongoose": "~3.8.3",
+    "monk": "~0.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamaspiros/starwars-koa"
+  },
+  "author": "Tamas Piros",
+  "url": "http://tamas.io",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/tamaspiros/starwars-koa/issues"
+  }
+}
